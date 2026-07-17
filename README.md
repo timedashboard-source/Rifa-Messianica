@@ -1,0 +1,1 @@
+Adicione a foto da igreja na pasta principal com o nome exato igreja.jpg. Depois envie todos os arquivos ao GitHub. Os QR Codes devem ser regenerados após definir o usuário do GitHub.
